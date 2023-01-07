@@ -1,0 +1,35 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+h1{
+    font-size: 35px;
+}
+.orange-color{
+    color: orange;
+}
+#wel-border{  
+    border-left: 5px solid #FF5959;
+    border-radius: 5px;
+    right: 10px;
+} 
+.link-button{
+    text-decoration: none;
+    background-color: #FF5959;
+    color: white;
+    padding: 12px;
+    border-radius: 5px;
+}
+.half-width{
+    width: 50%;
+    margin-left: 8%;
+    margin-top: 2%;
+}
+.fexiable-contain{
+    display: flex;
+}
+div img{
+    width: 70%;
+}
+p{
+    text-align: justify;
+}
