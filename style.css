@@ -7,6 +7,7 @@ h1{
 .orange-color{
     color: orange;
 }
+
 #wel-border{  
     border-left: 5px solid #FF5959;
     border-radius: 5px;
@@ -85,4 +86,8 @@ p{
 }
 #develop-code{
     width: 80%;
+}
+#global-community{
+    margin-top: 150px;
+    
 }
