@@ -75,14 +75,14 @@ p{
     padding: 10px 15px;
     margin: 15px;
 }
-/*
-.box-model{
-    box-shadow:  0 4px 8px 0 #cddee0;
-    background-color: rgba(79, 157, 166, 0.1);
-    border-radius: 20px;
-    width: 350px;
-    padding: 10px 15px;
-    margin: 15px;
-    
+#develop-area{
+    margin-top: 200px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-right: 8%;
 
+}
+#develop-code{
+    width: 80%;
 }
