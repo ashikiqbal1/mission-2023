@@ -1,5 +1,6 @@
 body{
     font-family: 'Josefin Sans', sans-serif;
+    margin: 0px;
 }
 h1{
     font-size: 35px;
@@ -90,4 +91,37 @@ p{
 #global-community{
     margin-top: 150px;
     
+}
+
+#corona-area{
+    margin-top: 150px;
+    margin-right: 8%;
+
+}
+#corona-app{
+    text-align: center;
+}
+#app-img{
+    width: 60%;
+    margin-left: 50px;
+}
+footer{
+    background-color: #0B0D17;
+    background-size: cover;
+    padding: 20px;
+    text-align: center;
+}
+footer h1{
+    color: white;
+}
+footer p{
+    color: white;
+    text-align: center;
+}
+footer span{
+    color: white;
+    text-align: center;
+}
+#tomato{
+   color: #FF5959;
 }
